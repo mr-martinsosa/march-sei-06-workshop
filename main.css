@@ -23,3 +23,9 @@ li a.change-color:hover{ /* change color on hover */
     background-color: #365899;
     color: white;
 }
+
+.ms-img{
+  width: 700px;
+  height: 500px;
+  flex-direction: center;
+}
