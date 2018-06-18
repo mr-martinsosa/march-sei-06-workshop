@@ -1,4 +1,4 @@
-#march-sei-06-workshop
+# march-sei-06-workshop
 
 A workshop on git basics, setting up a small site about Polar Bears.
 
